@@ -1,4 +1,4 @@
-# predicting-customer-churn-machinelearning.png
+
 # PowerCo Customer Churn Prediction 
 # Objective: Predict customer churn and identify key drivers.
 # Data: Customer and price data from PowerCo.
